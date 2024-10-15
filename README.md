@@ -1,4 +1,4 @@
-# K6=performance-test
+# K6-performance-test
 Performance testing using K6\
 https://reqres.in/api/users  - get, post
 
